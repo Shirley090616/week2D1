@@ -15,4 +15,4 @@ puts "Ok, c'est faux alors !"
 
 puts "c'est drole ça, faisons-en plus :"
 
-puts "est ce "
+puts "est ce ok "
