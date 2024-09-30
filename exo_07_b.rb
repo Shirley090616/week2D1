@@ -1,4 +1,4 @@
 puts "Bonjour, c'est quoi ton blase ?"
-print "> "
+puts "> "
 user_name = gets.chomp
 puts user_name
