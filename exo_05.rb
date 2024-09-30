@@ -1,5 +1,6 @@
 puts "On va compter le nombre d'heures de travail à THP"
-puts "travail : #{10 * 5 * 11 * 60}"
+puts "Travail : #{10 * 5 * 11}"
+puts "En minutes ça fait : #{10 * 5 * 11 * 60}"
 
 puts "Et en secondes ?"
 
@@ -15,6 +16,6 @@ puts "Ok, c'est faux alors !"
 
 puts "c'est drole ça, faisons-en plus :"
 
-puts "Est-ce que 5 est plus grand que -2?#{5 > -2} "
+puts "Est-ce que 5 est plus grand que -2? #{5 > -2} "
 puts "Est-ce que 5 est superieur ou egal à -2? #{5 >= -2?}"
 puts "Est-ce que 5 est inférieur ou egal à -2? #{5 >= -2?}"
