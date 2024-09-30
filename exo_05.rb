@@ -17,5 +17,5 @@ puts "Ok, c'est faux alors !"
 puts "c'est drole ça, faisons-en plus :"
 
 puts "Est-ce que 5 est plus grand que -2? #{5 > -2} "
-puts "Est-ce que 5 est superieur ou egal à -2? #{5 >= -2?}"
-puts "Est-ce que 5 est inférieur ou egal à -2? #{5 >= -2?}"
+puts "Est-ce que 5 est superieur ou egal à -2? #{5 >= -2}"
+puts "Est-ce que 5 est inférieur ou egal à -2? #{5 >= -2}"
