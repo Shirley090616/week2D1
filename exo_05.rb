@@ -9,7 +9,7 @@ puts 10 * 5 * 11 * 60 * 60 #Le resultat
 puts "Est-ce que c'est vrai que 3 + 2 < 5 - 7" #ça remarque la même chose
 
 puts 3 + 2 < 5 - 7 # ça marque false
-puts "ça fait combien 3 + 2 ? #{3 + 2}" #ça marque 3 + 2 ? 5
+puts "ça fait combien #{3 + 2}?" #ça marque 3 + 2 ? 5
 puts "ça fait combien 5 - 7 ? #{5 - 7}" #ça marque 5 -7 ? -2
 
 puts "Ok, c'est faux alors !"#ça marque la même chose
